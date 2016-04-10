@@ -1,0 +1,11 @@
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\bin\Debug\Catagatchi.exe.config
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\bin\Debug\Catagatchi.exe
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\bin\Debug\Catagatchi.pdb
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.csprojResolveAssemblyReference.cache
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.Form1.resources
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.Properties.Resources.resources
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.csproj.GenerateResource.Cache
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.exe
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.pdb
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Collin\Desktop\Cathacks\Catagatchi\Catagatchi\obj\Debug\Catagatchi.csproj.ResolveComReference.cache
